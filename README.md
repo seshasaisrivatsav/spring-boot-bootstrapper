@@ -23,6 +23,15 @@ mvn spring-boot:run
 ```
 
 ### Config in IntelliJ
+#### Project Structure
+![Screen Shot 2022-01-13 at 3 53 24 PM](https://user-images.githubusercontent.com/19309898/149407867-80099e15-67bb-4ce9-be37-022dfb0c9ba0.png)
+
+
+#### Intellij config
+![Screen Shot 2022-01-13 at 3 53 33 PM](https://user-images.githubusercontent.com/19309898/149407790-cf5e7419-3ebd-481c-94d4-f076ec134958.png)
+
+![Screen Shot 2022-01-13 at 3 53 37 PM](https://user-images.githubusercontent.com/19309898/149407798-b83a722a-0c19-4ea2-b405-8fc8e4adf629.png)
+
 
 
 
