@@ -22,5 +22,10 @@ mvn spring-boot:run
 
 ```
 
+### Config in IntelliJ
+
+
+
+
 
 
